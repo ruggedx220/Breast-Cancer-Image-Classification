@@ -1,7 +1,8 @@
 # Breast-Cancer-Image-Classification
 # Introduction
 Ultrasound imaging is a valuable diagnostic tool in the field of medical imaging, especially for cancer diagnosis. Accurate classification of cancerous and non-cancerous lesions in ultrasound images is critical for early detection and effective treatment planning. In recent years, Convolutional Neural Networks (CNNs) and Transfer Learning have emerged as powerful techniques for improving the accuracy and efficiency of medical image classification tasks.
-https://github.com/ruggedx220/Breast-Cancer-Image-Classification/blob/main/Cancer%20Images/purple-can.jpg
+![purple Cancer](https://github.com/ruggedx220/Breast-Cancer-Image-Classification/blob/main/Cancer%20Images/purple-can.jpg
+)
 # Convolutional Neural Networks (CNNs)
 CNNs are a class of deep learning models designed specifically for image recognition tasks. They excel at automatically learning relevant features from images, making them well-suited for tasks like ultrasound image classification. The key components of a CNN are convolutional layers, pooling layers, and fully connected layers. These layers work together to learn hierarchical representations of features in the images, which are crucial for distinguishing between cancerous and healthy tissue.
 # Transfer Learning
